@@ -1,0 +1,43 @@
+{
+  "name": "com.rg.tweening",
+  "version": "1.0.0",
+  "displayName": "RTween - High Performance Tweening System",
+  "description": "A lightweight, high-performance tweening system for Unity with visual animator, effects, and comprehensive editor tools. Optimized for mobile platforms with zero allocations during runtime.",
+  "unity": "6000.0",
+  "unityRelease": "0f1",
+  "keywords": [
+    "tween",
+    "animation",
+    "interpolation",
+    "easing",
+    "motion",
+    "ui",
+    "effects",
+    "mobile",
+    "performance"
+  ],
+  "author": {
+    "name": "ZeeM-Dev",
+    "email": "rgamestudio100@gmail.com",
+    "url": "https://rgamestudio100.blogspot.com/"
+  },
+  "category": "Animation",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Basic Examples",
+      "description": "Simple tweening examples showing core functionality",
+      "path": "Samples~/BasicExamples"
+    },
+    {
+      "displayName": "UI Animations",
+      "description": "UI-specific animation examples and patterns",
+      "path": "Samples~/UIExamples"
+    },
+    {
+      "displayName": "Effects Showcase",
+      "description": "Shake, punch, and special effects demonstrations",
+      "path": "Samples~/EffectsShowcase"
+    }
+  ]
+}
