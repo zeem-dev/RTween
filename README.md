@@ -247,7 +247,6 @@ void OnDisable()
 
 ## 🤝 Support
 
-- **Documentation**: [Full documentation](https://docs.rgames.com/rtween)
 - **Email**: rgamestudio100@gmail.com
 - **Discord**: [Join our community](https://discord.gg/RTween)
 - **Forum**: [Unity Forum Thread](https://forum.unity.com)
@@ -255,7 +254,7 @@ void OnDisable()
 ## 📄 License
 
 This asset is licensed under the Unity Asset Store EULA.
-For custom licensing, contact: support@rgames.com
+For custom licensing, contact: rgamestudio100@gmail.com
 
 ## 🙏 Credits
 
