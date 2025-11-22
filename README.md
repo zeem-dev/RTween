@@ -36,7 +36,7 @@ A lightweight, high-performance tweening animation system for Unity with visual 
 ### Via Unity Package Manager
 1. Open **Window > Package Manager**
 2. Click **+ > Add package from git URL**
-3. Enter: `https://github.com/zeem-dev/rtween.git`
+3. Enter: `https://github.com/zeem-dev/RTween.git`
 
 ### Via Asset Store
 1. Download from Unity Asset Store
