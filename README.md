@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A lightweight, high-performance tweening animation system for Unity with visual animator, shake/punch effects, and comprehensive editor tools. Optimized for mobile platforms with zero garbage allocation during runtime.
-## Releases: https://github.com/zeem-dev/rtween/releases
+## Download: https://github.com/zeem-dev/rtween/releases
 ## ✨ Features
 
 ### Core Tweening
