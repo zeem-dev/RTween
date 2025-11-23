@@ -342,7 +342,7 @@ RTweenEffects.ShakePosition(transform, strength, duration);
 ## Support
 
 Need help?
-- 📧 Email: rgamestudio100@gmail.com
+- 📧 Email: zeemdev1@gmail.com
 - 💬 Discord: [Join our community](https://discord.gg/RTween)
 - 📚 Docs: Full documentation in `README.md` and `API_REFERENCE.md`
 - 🐛 Issues: Report bugs via email or Discord
