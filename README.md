@@ -247,14 +247,14 @@ void OnDisable()
 
 ## 🤝 Support
 
-- **Email**: rgamestudio100@gmail.com
+- **Email**: zeemdev1@gmail.com
 - **Discord**: [Join our community](https://discord.gg/RTween)
 - **Forum**: [Unity Forum Thread](https://forum.unity.com)
 
 ## 📄 License
 
 This asset is licensed under the Unity Asset Store EULA.
-For custom licensing, contact: rgamestudio100@gmail.com
+For custom licensing, contact: zeemdev1@gmail.com
 
 ## 🙏 Credits
 
