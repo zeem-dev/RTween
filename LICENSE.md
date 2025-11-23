@@ -21,7 +21,7 @@ This asset is distributed under the Unity Asset Store EULA.
    - ❌ Do not create competing assets using this code
 
 4. **Intellectual Property**:
-   - The asset and all intellectual property rights remain with zeem-dev
+   - The asset and all intellectual property rights remain with ZeeM-Dev
    - You retain rights to projects created using this asset
    - Modified versions for internal use are permitted
 
@@ -33,7 +33,7 @@ This asset is distributed under the Unity Asset Store EULA.
 6. **Warranty Disclaimer**:
    - Asset provided "AS IS" without warranty of any kind
    - Use at your own risk
-   - RGames not liable for damages from use
+   - ZeeM-Dev not liable for damages from use
 
 7. **Termination**:
    - License automatically terminates if terms violated
