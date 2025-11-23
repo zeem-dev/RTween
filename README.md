@@ -249,7 +249,7 @@ void OnDisable()
 
 - **Email**: zeemdev1@gmail.com
 - **Discord**: [Join our community](https://discord.gg/RTween)
-- **Forum**: [Unity Forum Thread](https://forum.unity.com)
+- **Forum**: [Unity Forum Thread](https://discussions.unity.com/t/rtween-high-performance-tweening-system/1696750)
 
 ## 📄 License
 
