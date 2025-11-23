@@ -48,8 +48,8 @@ https://unity.com/legal/as-terms
 ### Contact
 
 For licensing questions or custom licensing arrangements:
-- Email: rgamestudio100@gmail.com
-- Website: https://rgamestudio100.blogspot.com/
+- Email: zeemdev1@gmail.com
+- Website: https://zeemdev.blogspot.com/
 
 ---
 
