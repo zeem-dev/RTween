@@ -263,4 +263,4 @@ Inspired by DOTween, PrimeTween, and the Unity community
 
 ---
 
-**⭐ If you enjoy RTween, please leave a review on the Asset Store!**
+**⭐ If you enjoy RTween, please leave a review on the Asset Store: https://u3d.as/3JM8**
